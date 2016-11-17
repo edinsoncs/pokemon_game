@@ -1,0 +1,17 @@
+{
+  "name": "backend_pokemon",
+  "version": "0.0.1",
+  "description": "Backend save ranking users game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edinson Carranza Saldaña <jean_clude_dortosms@hotmail.com> (http://edinsoncs.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "mongodb": "^2.2.11",
+    "monk": "^3.1.3"
+  }
+}
